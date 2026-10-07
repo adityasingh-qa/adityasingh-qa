@@ -1,8 +1,8 @@
 # Hi , I'm Aditya Singh
 
-## QA Engineer | 2+ Years Experience
+## QA Engineer | 3+ Years Experience
 
-I'm a QA Engineer with 2+ years of experience in Manual Testing and ERP application testing. I have hands-on experience in Functional Testing, Regression Testing, SQL, API Testing, and Agile methodologies. Currently, I am learning Selenium Automation to enhance my testing skills.
+I'm a QA Engineer with 3+ years of experience in Manual Testing and ERP application testing. I have hands-on experience in Functional Testing, Regression Testing, SQL, API Testing, and Agile methodologies. Currently, I am learning Selenium Automation to enhance my testing skills.
 
 ## 🛠️ Skills
 
